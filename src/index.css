@@ -111,7 +111,9 @@ footer{
   flex: 1;
   
 }
-
+.product-price div {
+  font-size: 2rem;
+}
 .button{
   padding: 1rem;
   border: 0.1rem #c0c0c0 solid;
